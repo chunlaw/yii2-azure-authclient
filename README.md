@@ -14,7 +14,7 @@ Documentation is at [docs/guide/README.md](https://github.com/chunlaw/yii2-authc
 
 [![Latest Stable Version](https://poser.pugx.org/chunlaw/yii2-azure-authclient/v/stable.png)](https://packagist.org/packages/chunlaw/yii2-azure-authclient)
 [![Total Downloads](https://poser.pugx.org/chunlaw/yii2-azure-authclient/downloads.png)](https://packagist.org/packages/yiisoft/yii2-azure-authclient)
-[![Build Status](https://github.com/chunlaw/yii2-azure-authclient/workflows/build/badge.svg)](https://github.com/chunlaw/yii2-azure-authclient/actions)
+[![Build Status](https://github.com/chunlaw/yii2-azure-authclient/actions/workflows/php.yml/badge.svg)](https://github.com/chunlaw/yii2-azure-authclient/actions)
 
 Installation
 ------------
