@@ -1,0 +1,29 @@
+{
+    "name": "chunlaw/yii2-azure-authclient",
+    "description": "External authentication via OAuth and OpenID for the Yii framework, support Azure account",
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "support": {
+        "issues": "https://github.com/chunlaw/yii2-azure-authclient/issues",
+        "source": "https://github.com/chunlaw/yii2-azure-authclient"
+    },
+    "authors": [
+        {
+            "name": "Law Wai Chun",
+            "email": "chunlaw@rocketmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.13",
+        "yiisoft/yii2-authclient": "^2.2"
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ],
+	"autoload": {
+        "psr-4": { "chunlaw\\authclient\\": "src"}
+	}
+}
